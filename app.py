@@ -3,7 +3,7 @@ import pandas as pd
 from database import session, Order, Worker, Material, IPFinance # Импортируем всё сразу
 
 # Настройка страницы
-st.set_page_config(page_title="ПросчетПрофи", page_icon="🛠", layout="wide")
+st.set_page_config(page_title="ПросчетПрофи", page_icon="/Users/matvejdanilov/Desktop/WorkBot/Image/Gemini_Generated_Image_fgm2pdfgm2pdfgm2.jpeg", layout="wide")
 
 # --- БЛОК ДИЗАЙНА (Исправлен под Dark Theme) ---
 st.markdown("""
